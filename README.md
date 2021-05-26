@@ -2,7 +2,7 @@
 ## In this file there are some basic questions related to JavaScript.
 File name is as the according of question number mentioned below:
 
-1. Write a Javascript program to take tree numbers from the user as input and print the largest number on the document.
+1. Write a Javascript program to take three numbers from the user as input and print the largest number on the document.
 
 2. Write a JS function and ask for user DOB ex: 10/June/1998 and if user age is between 18 to 44 then this link should be open automatically in browser “https://selfregistration.cowin.gov.in”.
 
