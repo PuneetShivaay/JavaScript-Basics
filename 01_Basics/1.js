@@ -1,3 +1,6 @@
+// 1. Write a Javascript program to take three numbers from the user as input and print the largest number on the document.
+
+
 // Take inputs from user and store in variables num1, num2, num3
 let num1 = parseInt(prompt("Enter First Number"));
 let num2 = parseInt(prompt("Enter Second Number"));
