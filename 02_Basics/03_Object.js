@@ -26,16 +26,20 @@ let obj1 = {1:"a", 2:"b"}
 let obj2 = {3:"c", 4:"d"}
 
 let combinedObj = Object.assign({}, obj1, obj2)
-console.log(combinedObj)
+//console.log(combinedObj)
 let combinedObj2 = Object.assign({}, obj2, obj1)
-console.log(combinedObj2)
+//console.log(combinedObj2)
 
 // Using Spread 
 let combinedUsingSpread = {...obj1, ...obj2}
-console.log(combinedUsingSpread)
+//console.log(combinedUsingSpread)
 
 const users = [
     {}
 ]
 
-console.log(Object.keys)
+console.log(Object.keys(newPetmetsUser))
+console.log(Object.values(newPetmetsUser))
+console.log(Object.entries(newPetmetsUser))
+
+console.log(newPetmetsUser.hasOwnProperty("email"))
