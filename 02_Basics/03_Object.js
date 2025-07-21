@@ -37,3 +37,5 @@ console.log(combinedUsingSpread)
 const users = [
     {}
 ]
+
+console.log(Object.keys)
